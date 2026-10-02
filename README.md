@@ -1,5 +1,7 @@
 # Neon Nightfall
 
+Play here : https://mdhasibul35.github.io/neon-nightfall/
+
 A colorful first-person zombie wave survival game that runs in any modern browser. No install and no build step: it is a single `index.html` file.
 
 ## Play
